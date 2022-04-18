@@ -13,4 +13,4 @@ The team generator uses node to ask users to about the employees they would like
 [OOPTeamProfileNameGeneratorKT](https://github.com/krystalnickole1212/OOPTeamProfileNameGeneratorKT/)
 
 #####Website Preview
-![OOPTeamProfileNameGeneratorKT](./assets/images/placeholderphoto.jpeg) 
+![OOPTeamProfileNameGeneratorKT](.assets/images/placeholderphoto.jpeg) 
